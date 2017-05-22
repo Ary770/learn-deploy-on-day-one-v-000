@@ -1,4 +1,4 @@
-
+http://imgur.com/a/QKE9d
 /* GLOBAL STYLES
 ======================== */
 *, *:before, *:after {
@@ -131,6 +131,14 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+}
+
+#ary-baldioceda-cover {
+  background-image: url("http://i.imgur.com/I1ZJftB.jpg");
+}
+
+#ary-baldioceda-card {
+  background-image: url("http://i.imgur.com/jTCz00g.jpg");
 }
 
 #irina-afanaseva-cover {
